@@ -16,3 +16,4 @@ while True:
         matrix[row][col] -= value
 
 [print(" ".join([str(x) for x in el])) for el in matrix]
+print('Zdrasti!')
